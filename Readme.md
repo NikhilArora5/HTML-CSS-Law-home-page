@@ -1,4 +1,4 @@
-# Business Landing Page
+#Law Home Page
 A Law Home Page designed using pure Html and Css.
 
 ## Concepts and Learnings
