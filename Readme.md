@@ -10,7 +10,7 @@ A Law Home Page designed using pure Html and Css.
 - Background color bifurcation
 
 ## Landing Page Snapshot
-![Snapshot](/Outputs/)
+![Snapshot](/Outputs/Web%20capture_22-8-2022_182654_127.0.0.1.jpeg)
 
 ## Time Taken
 

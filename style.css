@@ -1,11 +1,12 @@
 body{
     margin: 0;
     background-color: #2b2922;
+    font-family: 'Poppins';
 }
 
 .nav-margin{
 
-    font-family: 'Red Rose';
+    font-family: 'Poppins';
 
 }
 
@@ -31,6 +32,8 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    opacity: 0.7;
+    font-weight: 300;
 }
 
 .nav-list{
@@ -41,14 +44,26 @@ body{
     list-style: none;
 
 }
+.list-items:nth-child(1){
+    opacity: 2;
+    font-weight: 400;
+    
+    
+}
 
+.btn{
+ }
+
+ 
 .nav-btn{
+    all: unset;
     color: #8d7e33;
     border-radius: 10px;
-    border-color: #8d7e33;
+    border-color:#8d7e33;
     background-color: #2b2922 ;
     padding: 10px 30px;
     margin-bottom: 20px;
+    border: 2px solid;
 }
 
 .list-items{
@@ -78,10 +93,12 @@ body{
 }
 
 .mid-content h1 {
-font-size: 5rem;
+font-size: 3.5rem;
 margin: 0 auto;
 text-align: left;
-width: 35%;
+width:40%;
+line-height: 1;
+font-weight: 550;
 
 }
 
@@ -91,6 +108,8 @@ width: 35%;
     text-align: left;
     margin: 0 auto 0 0;
     line-height: 1.5;
+    opacity: 0.7;
+    font-weight: 100;
 }
 
 
@@ -99,6 +118,7 @@ width: 35%;
 
     width: 100vw;
     height: 50vh;
+    
 }
 
 
